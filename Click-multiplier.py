@@ -6,3 +6,4 @@ while 0<1:
     count=0
     while count<multiplier:
         mouse.click(button='left')
+        count+=1
